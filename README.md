@@ -11,7 +11,7 @@
 
 1.	Contexto da Problemática Hipótetica
 
-Realizou-se uma reunião mensal para discutir os resultados de vendas das lojas, e após este primeiro momento, o CFO fez uma requisão de Previsão de Vendas das próximas seis semanas para os gerentes de cada loja. A necessidade surgiu devido a intenção de se realizar obras de reforma nas unidades, essa seria o motivo de possuir conhecimento sobre o faturamento de cada loja e o quanto pode ser investido nesse projeto sem causar impactos financeiros negativos para a Empresa. Porém, a previsão ainda é realizada de forma manual pelas lojas e, além disso, a visualização dos resutaldos das vendas é acessada somente pela rede de computadores das lojas.
+Realizou-se uma reunião mensal para discutir os resultados de vendas das lojas, e após este primeiro momento, o CFO fez uma requisão de Previsão de Vendas das próximas seis semanas para os gerentes de cada loja. A necessidade surgiu devido a intenção de se realizar obras de reforma nas unidades, essa seria o motivo de possuir conhecimento sobre o faturamento de cada loja e o quanto pode ser investido nesse projeto sem causar impactos financeiros negativos para a Empresa. Porém, a previsão ainda é realizada de forma manual pelas lojas e, além disso, a visualização dos resultados das vendas é acessada somente pela rede de computadores das lojas.
 
 2.	Questionamento
 
