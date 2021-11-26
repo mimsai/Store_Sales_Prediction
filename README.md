@@ -37,12 +37,12 @@ Uma das primeiras partes do projeto é realizada no estudo do tipo de dados que 
 
 Na etapa de Feature Engineering são selecionadas as melhores features para o modelo de predição, criação de novas features derivadas das originárias e transformação matemática de features para que seja utilizado ao máximo a maior quantidade de dados possíveis do dataset.
 
-    o	Criação de Features:
+- Criação de Features:
 
 No projeto serão utilizadas técnicas de Time Series, portanto das features já existentes foram criadas outras features temporais. Exemplos destas: período decorrido após instalação de novo concorrente, período de promoções, meses promocionais, features geradas por splitting de datas (dias, meses, anos, etc).
 
 
-    o	Missing Values:
+- Missing Values:
 
 No caso de dados ausentes podem ser aplicados alguns métodos: excluir ou preencher os dados faltantes. Este projeto é desenvolvido em técnicas de Séries Temporais, logo, há certas restrições para a manipulação dos dados e existem técnicas específicas que podem ser utilizadas para preenchimento dos dados ausentes (Last Observation Carried Forward e Observation Carried Backward, por exemplo). Realizou-se, então, uma análise das ligações entre os dados ausentes e outras features do dataset e, assim, foram criadas hipóteses sobre a falta dos dados. 
 
@@ -82,5 +82,5 @@ Os resultados de erros (MSE, MAPE e RMSE) de cada técnica foram concentrados de
 A última parte do projeto foi o desenvolvimento de API e App/Bot para a visualização do resultado da predição das lojas de forma individual por meio de aplicativo de comunicação disponível e de fácil acesso por utilizando um smartphone. 
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/RossmannBot.png" />
-</h1>>
+  <img src="./img/RosmannBot.png" />
+</h1>
