@@ -82,5 +82,5 @@ Os resultados de erros (MSE, MAPE e RMSE) de cada técnica foram concentrados de
 A última parte do projeto foi o desenvolvimento de API e App/Bot para a visualização do resultado da predição das lojas de forma individual por meio de aplicativo de comunicação disponível e de fácil acesso por utilizando um smartphone. 
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/RosmannBot.png" />
+  <img src="./img/RosmannBot.png" />
 </h1>
