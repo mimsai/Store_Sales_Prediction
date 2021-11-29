@@ -85,3 +85,8 @@ A última parte do projeto foi o desenvolvimento de API e App/Bot para a visuali
   <img src="./img/RossmannBot.png">
 </p>
 
+<h1 align="center">Referências</h1>
+https://www.kaggle.com/c/rossmann-store-sales    - Acesso em: 03/11/2021
+
+
+https://datascienceemproducao-ds.club.hotmart.com/ - Acesso em:03/11/2021
