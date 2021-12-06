@@ -4,7 +4,7 @@
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/Sales Prediction.png" />
 </h1>
 
-<p align="center">Neste projeto foi criada uma problemática hipotética sobre a Previsão de Vendas das Lojas Rossmann. A rede de lojas Rossmann possui mais de 4.000 drogarias distribuidas pela Europa, e como em qualquer outro tipo de negócio, há influência de fatores externos e internos na incrementação ou descrescimento de vendas. Podemos citar a distância dos concorrentes, períodos promocionais e feriados como exemplos de tais fatores</p>
+<p align="center">Neste projeto foi criada uma problemática hipotética sobre a Previsão de Vendas das Lojas Rossmann. A rede de lojas Rossmann possui mais de 4.000 drogarias distribuidas pela Europa, e como em qualquer outro tipo de negócio, há influência de fatores externos e internos na incrementação ou descrescimento de vendas. Podemos citar a distância dos concorrentes, períodos promocionais e feriados como exemplos de tais fatores.</p>
 
 
 <h1 align="center">Questão e Entendimento de Negócio</h1>
@@ -15,14 +15,19 @@ Realizou-se uma reunião mensal para discutir os resultados de vendas das lojas,
 
 2.	Questionamento
 
-- Qual o faturamento de cada loja no final do decorrer de seis semanas?
-
-- Como disponibilizar os dados de vendas de forma que qualquer responsável pelo projeto de reformas possa acessar e tomar decisões sobre o processeguimento das obras?
+<ul>
+<li>Qual o faturamento de cada loja no final do decorrer de seis semanas?</li>
+	
+<li>Como disponibilizar os dados de vendas de forma que qualquer responsável pelo projeto de reformas possa acessar e tomar decisões sobre o processeguimento das obras?</li>
+</ul>
 
 3.	Soluções
 
-- Previsão das vendas das lojas utilizando algoritmos de Machine Learning com técnicas de Time Series;
-- Visualização dos Resutaldos das Vendas feita de forma remota por meio de Smartphone.
+<ul>
+<li>Previsão das vendas das lojas utilizando algoritmos de Machine Learning com técnicas de Time Series;</li>
+	
+<li>Visualização dos Resutaldos das Vendas feita de forma remota por meio de Smartphone</li>
+</ul>
 
 
 <h1 align="center">Desenvolvimento do Projeto</h1>
@@ -70,10 +75,15 @@ Concluindo-se o estudo e validação das hipóteses, é possível indicar quais 
 Para a escolha da técnica de Machine Learning que seria utilizada para o desenvolvimento dos modelos foram testados e coletados resultados de erros das seguintes técnicas:
 
 o	Average Model;
+
 o	Linear Regression Model;
+
 o	Lasso;
+
 o	Random Forest;
+
 o	XGBoost.
+
 
 Os resultados de erros (MSE, MAPE e RMSE) de cada técnica foram concentrados de forma tabulada e comparados, após a cross-validação foi escolhida a técnica que seria utilizada para ajustes de hiperparâmetro e aplicação.
 
