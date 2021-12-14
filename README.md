@@ -90,6 +90,7 @@ Os resultados de erros (MSE, MAPE e RMSE) de cada técnica foram concentrados de
 <h1 align="center">Melhores Insights - Hipóteses</h1>
 
 H1. Lojas com maior sortimento deveriam vender mais.
+
 Falso: A maior renda é gerada pela categoria de sortimentos 'básico'. 
 
 <p align="center">
@@ -97,6 +98,7 @@ Falso: A maior renda é gerada pela categoria de sortimentos 'básico'.
 </p>
 
 H8. Lojas deveriam vender mais no decorrer dos anos.
+
 Falso: Há uma queda nas vendas no decorrer dos anos.
 
 <p align="center">
@@ -105,13 +107,19 @@ Falso: Há uma queda nas vendas no decorrer dos anos.
 
 H10. Lojas deveriam vender mais depois do dia 10 de cada mês.
 
+Verdadeiro.
+
 <p align="center">
   <img src="./img/h10.png">
 </p>
 
 <h1 align="center">Obtenção dos resultados de forma remota</h1>
 
-A última parte do projeto foi o desenvolvimento de API e App/Bot para a visualização do resultado individual da predição das lojas por meio de aplicativo de comunicação disponível e de fácil acesso em um smartphone. 
+A última parte do projeto foi o desenvolvimento de API e App/Bot para a visualização do resultado individual da predição das lojas por meio de aplicativo de comunicação disponível e de fácil acesso em um smartphone. Para acessar as predições por meio do Telegram, clique abaixo:
+
+<ul class="actions">
+     <button class="GFG" onclick="window.location.href = 'https://t.me/rossmann_pred_model_bot';">Rossmann Prediction Bot Telegram</button>
+</ul>
 
 <p align="center">
   <img src="./img/RossmannBot.png">
