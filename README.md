@@ -117,7 +117,7 @@ Verdadeiro.
 
 A última parte do projeto foi o desenvolvimento de API e App/Bot para a visualização do resultado individual da predição das lojas por meio de aplicativo de comunicação disponível e de fácil acesso em um smartphone. Para acessar as predições por meio do Telegram, clique abaixo:
 
-<h1 align="center"> [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>]( https://t.me/rossmann_pred_model_bot)
+<"center"> [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>]( https://t.me/rossmann_pred_model_bot)
 </h1>
 
 <p align="center">
