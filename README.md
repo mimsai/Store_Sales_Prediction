@@ -117,9 +117,7 @@ Verdadeiro.
 
 A última parte do projeto foi o desenvolvimento de API e App/Bot para a visualização do resultado individual da predição das lojas por meio de aplicativo de comunicação disponível e de fácil acesso em um smartphone. Para acessar as predições por meio do Telegram, clique abaixo:
 
-<ul class="actions">
-     <button class="GFG" onclick="window.location.href = 'https://t.me/rossmann_pred_model_bot';">Rossmann Prediction Bot Telegram</button>
-</ul>
+<button name="button" onclick="https://t.me/rossmann_pred_model_bot">Rossmann Prediction Bot Telegram</button>
 
 <p align="center">
   <img src="./img/RossmannBot.png">
