@@ -87,6 +87,28 @@ o	XGBoost.
 
 Os resultados de erros (MSE, MAPE e RMSE) de cada técnica foram concentrados de forma tabulada e comparados, após a cross-validação foi escolhida a técnica que seria utilizada para ajustes de hiperparâmetro e aplicação.
 
+<h1 align="center">Melhores Insights - Hipóteses</h1>
+
+H1. Lojas com maior sortimento deveriam vender mais.
+Falso: A maior renda é gerada pela categoria de sortimentos 'básico'. 
+
+<p align="center">
+  <img src="./img/h1.png">
+</p>
+
+H8. Lojas deveriam vender mais no decorrer dos anos.
+Falso: Há uma queda nas vendas no decorrer dos anos.
+
+<p align="center">
+  <img src="./img/h8.png">
+</p>
+
+H10. Lojas deveriam vender mais depois do dia 10 de cada mês.
+
+<p align="center">
+  <img src="./img/h10.png">
+</p>
+
 <h1 align="center">Obtenção dos resultados de forma remota</h1>
 
 A última parte do projeto foi o desenvolvimento de API e App/Bot para a visualização do resultado individual da predição das lojas por meio de aplicativo de comunicação disponível e de fácil acesso em um smartphone. 
