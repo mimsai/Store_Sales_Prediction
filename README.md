@@ -97,6 +97,8 @@ Falso: A maior renda é gerada pela categoria de sortimentos 'básico'.
   <img src="./img/h1.png">
 </p>
 
+Os valores do eixo y correspondem a valores monetários.
+
 H8. Lojas deveriam vender mais no decorrer dos anos.
 
 Falso: Há uma queda nas vendas no decorrer dos anos.
@@ -104,6 +106,7 @@ Falso: Há uma queda nas vendas no decorrer dos anos.
 <p align="center">
   <img src="./img/h8.png">
 </p>
+Os valores do eixo y correspondem a valores monetários.
 
 H10. Lojas deveriam vender mais depois do dia 10 de cada mês.
 
@@ -112,6 +115,7 @@ Verdadeiro.
 <p align="center">
   <img src="./img/h10.png">
 </p>
+Os valores do eixo y correspondem a valores monetários.
 
 <h1 align="center">Obtenção dos resultados de forma remota</h1>
 
